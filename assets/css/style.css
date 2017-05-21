@@ -1,4 +1,4 @@
-.spalsh-web {
+  .spalsh-web {
   background: url("../imgs/bg.png");
   background-size:auto 100%;
   background-repeat: no-repeat;
@@ -69,11 +69,11 @@
   letter-spacing: 1.5px;
 }
 
-
 .btn {
-  border: 0;
+  padding:2px 0 0 0 ;
   width: 205px;
   height: 44px;
+  border: 0;
   border-radius: 100px;
   background-color: #12A8A6;
   color: #FFFFFF;
